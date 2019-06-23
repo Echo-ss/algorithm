@@ -1,4 +1,4 @@
 # algorithm
 
-##### jupyter notebook은 바로바로 간단하게 코딩 및 분석 해볼 수 있고 md형식으로 문서 저장, 관리하기 편하지만 연동은 없어서 너무 프라이빗하다..
+##### jupyter notebook은 바로바로 간단하게 코딩 및 분석 해볼 수 있고 연동은 gitbub desktop 통해서 연동 관리
 ###### 어서 옮기자..
